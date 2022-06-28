@@ -2,14 +2,14 @@
 id: jijyxirooej95u09sy0aelv
 title: Rules
 desc: ''
-updated: 1656376077611
+updated: 1656377473170
 created: 1656376000334
 ---
 Rules are the not-fun part of everything, but they exist for a reason. In the Time Served community, we want to maximize fun for the largest number of people. That often means making some personal sacrifices "for the greater good". That being said, a well-designed game shouldn't require a lot of explicit rules that aren't automatically enforced by the game world. Whenever possible, we will try to keep this list short in favor of creating the proper boundaries within the world itself.
 
 Violation of these rules may result in disciplinary behavior up to and including permanent banning from the community and server. You are not expected to memorize every word on this page, but you **are** expected to exercise common sense. 
 
-# General Rules
+# General Rculegs
 - Breaking any rules may result in administrative action.
 - Not knowing the rules does not make players exempt from them.
 - If another player breaks rules it does not give you the right to break a rule yourself.
