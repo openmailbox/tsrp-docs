@@ -97,8 +97,8 @@ publishing:
             - vault
     writeStubs: false
     seo:
-        title: Dendron
-        description: Personal knowledge space
+        title: Time Served
+        description: A FiveM-based role playing game community.
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
