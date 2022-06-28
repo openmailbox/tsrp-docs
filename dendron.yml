@@ -81,13 +81,13 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /tsrp-docs
+    #assetsPrefix: /tsrp-docs
     copyAssets: true
     siteHierarchies:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://openmailbox.github.io'
+    siteUrl: 'https://docs.timeservedrp.com'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
