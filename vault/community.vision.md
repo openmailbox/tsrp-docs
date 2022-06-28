@@ -2,7 +2,7 @@
 id: 413wt8jh2w3qd8l3u1iwzkt
 title: Vision
 desc: Overall community vision.
-updated: 1656425705204
+updated: 1656436132132
 created: 1656376498007
 ---
 Role playing is fun. You can take on a totally different persona and live vicariously in ways you would never imagine in the real world. It's even better when you can share that experience with others. 
@@ -17,4 +17,4 @@ It doesn't have to be that way. This current state of affairs arose because serv
 
 If we apply the principles of the FOSS movement to RP community development, we remove the artificial ceiling. Imagine a world where the best indie modders work with instead of against each other for the benefit of all. The potential is limitless, and incentivization is no longer tied to commercial success. 
 
-Perhaps this is an overly idealistic outlook, but it's certainly more appealing than our current cuthroat ecosystem of communities trying to step on each other to reach the top. We propose inverting the current success pyramid that dominates the larger RP server modding community. We will do this by publishing all of our work under a strong copyleft open-source license, and reducing the friction that inherently discourages external contributions. We will not compromise quality for expendiency. We will share and share-alike.
+Perhaps this is an overly idealistic outlook, but it's certainly more appealing than our current cuthroat ecosystem of communities trying to step on each other to reach the top. We propose inverting the current success pyramid that dominates the larger RP server modding community. We will do this by publishing all of our work under a strong copyleft open-source license, and reducing the friction that inherently discourages external contributions. We will not compromise quality for expediency. We will share and share-alike.
