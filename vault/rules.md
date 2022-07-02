@@ -2,14 +2,14 @@
 id: jijyxirooej95u09sy0aelv
 title: Rules
 desc: ''
-updated: 1656377473170
+updated: 1656805999604
 created: 1656376000334
 ---
 Rules are the not-fun part of everything, but they exist for a reason. In the Time Served community, we want to maximize fun for the largest number of people. That often means making some personal sacrifices "for the greater good". That being said, a well-designed game shouldn't require a lot of explicit rules that aren't automatically enforced by the game world. Whenever possible, we will try to keep this list short in favor of creating the proper boundaries within the world itself.
 
-Violation of these rules may result in disciplinary behavior up to and including permanent banning from the community and server. You are not expected to memorize every word on this page, but you **are** expected to exercise common sense. 
+Violation of these rules may result in disciplinary behavior up to and including permanent banning from the community and server. You are not expected to memorize every word on this page, but you **are** expected to exercise common sense.
 
-# General Rculegs
+# General Rules
 - Breaking any rules may result in administrative action.
 - Not knowing the rules does not make players exempt from them.
 - If another player breaks rules it does not give you the right to break a rule yourself.
@@ -64,11 +64,11 @@ IC (In Character) refers to knowledge or information that your **character** kno
 ## Misuse of "/me"
 Using "/me" is a way to show physical reactions/descriptions for your character that can't otherwise be shown using current game mechanics. For example, if one broke their arm in the day, you could use "/me Bob has a cast on his arm" or if one fell off their motorcycle and had their face dragged across the asphault, you could use "/me has bad road rash on their face."  It is also heavily used in medical RP and encouraged between medical interactions.
 
-Abusing /me is a form of FailRP and is not permitted on this server. Examples of this are as follows: 
+Abusing /me is a form of FailRP and is not permitted on this server. Examples of this are as follows:
 
-- Using /me to show thoughts. If your character is thinking something, no one else would hear it unless it was spoken by your character. You can't use /me to say "/me thinks Burger Bob is a dumbass" but you could use it to show frustration, "/me looks frustrated at Burger Bob." RP is always king, though, so if you could express your frustration through your dialogue, that is preferred. 
+- Using /me to show thoughts. If your character is thinking something, no one else would hear it unless it was spoken by your character. You can't use /me to say "/me thinks Burger Bob is a dumbass" but you could use it to show frustration, "/me looks frustrated at Burger Bob." RP is always king, though, so if you could express your frustration through your dialogue, that is preferred.
 
-- Using /me for OOC communication is not allowed UNLESS you are having microphone/audio issues and need to quickly alert those in your scene so you can fix it. You can say "/me has to adjust his earbuds" but you shouldn't continue to communicate OOC in this manner. Please take it to Discord, instead. 
+- Using /me for OOC communication is not allowed UNLESS you are having microphone/audio issues and need to quickly alert those in your scene so you can fix it. You can say "/me has to adjust his earbuds" but you shouldn't continue to communicate OOC in this manner. Please take it to Discord, instead.
 
 We strictly enforce /me rules. Abide by "serious RP" and remember RPing is always preferred, but /me is a great tool to add to RP if used correctly.
 
@@ -90,7 +90,7 @@ The question often arises as to whether stream/VOD footage may be used for IC pu
 - Video recordings may only be used ICly if it is "reasonable" to expect that the actions in question would have been recorded.
 	- **Example:** When robbing a convenience store without wearing a mask, it is reasonable to expect that your face will be captured on security camera footage.
   - **Example:** When murdering a gang rival in the middle of a deserted field, it is not reasonable to expect that you are being recorded.
-  
+
 The question of whether or not something is "reasonable" will be decided by the courts. Video may be submitted as evidence and a judge (or GM) will rule on whether it's usable/admissable based on the circumstances. Here is a non-exhaustive list of factors that are considered to determine whether or not the expectation of being recorded is reasonable:
 - Location (convenience store vs. deserted field)
 - Presence of an **on-duty and uniformed** police officer. "Body cam" footage may **only** be used if a police officer was present, on duty, and in uniform.
@@ -99,7 +99,7 @@ The question of whether or not something is "reasonable" will be decided by the 
 The ruling on whether the submitted video can be used may also come with caveats. For example, a judge/GM may rule that a convenience store has cameras, but the audio may not be used because convenience store security systems typically do not record audio.
 
 In summary, in order for "video footage" to be used for any IC purposes, you must have two things: 1) Actual footage from a stream or VOD, and 2) A ruling from a judge or GM that use of the video falls within the expectations of "reasonable".
-  
+
 ## Death
 Each time your character "dies", they start a new life - all their previous memories are lost. You may not immediately return to the place where your character died, pursue revenge on the person(s) who killed your character, or recall any (IC) information about the events leading up to your character's death. If you have a question about whether something is permissible or not under NLR, consult with a moderator.
 
@@ -148,4 +148,3 @@ Prior rule infractions are expunged after six months.  In other words, if you ge
 
 # See Also
 - [Administration](/administration)
-
