@@ -1,6 +1,10 @@
 # Time Served Documentation
 This is the main documentation repo for the [Time Served](https://www.timeservedrp.com) gaming community.
 
+Related repositories:
+- [TSRP FiveM Server](https://github.com/openmailbox/tsrp-fivem)
+- [TSRP Website](https://github.com/openmailbox/tsrp-web)
+
 ## Contributing
 1. Fork the repository.
 1. Make and commit your changes in your forked repo.
