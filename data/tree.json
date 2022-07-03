@@ -1,0 +1,59 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Time Served",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "lpc5yicm2ffwc8ez7o9wx2a",
+          "title": "Community",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "wk9z8xggkw5ctpp98j3ls2a",
+              "title": "Governance",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "413wt8jh2w3qd8l3u1iwzkt",
+              "title": "Vision",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "jijyxirooej95u09sy0aelv",
+          "title": "Rules",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "lpc5yicm2ffwc8ez7o9wx2a": "wn8PE1RhG0znK1alrGFYv",
+    "413wt8jh2w3qd8l3u1iwzkt": "lpc5yicm2ffwc8ez7o9wx2a",
+    "wk9z8xggkw5ctpp98j3ls2a": "lpc5yicm2ffwc8ez7o9wx2a",
+    "jijyxirooej95u09sy0aelv": "wn8PE1RhG0znK1alrGFYv"
+  }
+}

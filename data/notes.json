@@ -1,0 +1,382 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1656806772614,
+      "created": 1656806772614,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "wn8PE1RhG0znK1alrGFYv": {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Time Served",
+      "desc": "",
+      "updated": 1656806621788,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f751b69714f57f11193fcf5cb0e99025",
+      "links": [],
+      "anchors": {
+        "welcome-to-tsrp": {
+          "type": "header",
+          "text": "Welcome to TSRP",
+          "value": "welcome-to-tsrp",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "jijyxirooej95u09sy0aelv",
+        "lpc5yicm2ffwc8ez7o9wx2a"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "lpc5yicm2ffwc8ez7o9wx2a": {
+      "fname": "community",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1656806772533,
+      "created": 1656806772533,
+      "id": "lpc5yicm2ffwc8ez7o9wx2a",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "wk9z8xggkw5ctpp98j3ls2a",
+        "413wt8jh2w3qd8l3u1iwzkt"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {},
+      "title": "Community"
+    },
+    "413wt8jh2w3qd8l3u1iwzkt": {
+      "id": "413wt8jh2w3qd8l3u1iwzkt",
+      "title": "Vision",
+      "desc": "Overall community vision.",
+      "updated": 1656440602710,
+      "created": 1656376498007,
+      "custom": {},
+      "fname": "community.vision",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9efa1df244751fdc6790ed0314b5238e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "lpc5yicm2ffwc8ez7o9wx2a",
+      "data": {}
+    },
+    "wk9z8xggkw5ctpp98j3ls2a": {
+      "id": "wk9z8xggkw5ctpp98j3ls2a",
+      "title": "Governance",
+      "desc": "",
+      "updated": 1656805985962,
+      "created": 1656435021823,
+      "custom": {},
+      "fname": "community.governance",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "610f8b32ec701afc6ffe483a7c24f1ec",
+      "links": [],
+      "anchors": {
+        "users": {
+          "type": "header",
+          "text": "Users",
+          "value": "users",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "contributors": {
+          "type": "header",
+          "text": "Contributors",
+          "value": "contributors",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "maintainers": {
+          "type": "header",
+          "text": "Maintainers",
+          "value": "maintainers",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "lpc5yicm2ffwc8ez7o9wx2a",
+      "data": {}
+    },
+    "jijyxirooej95u09sy0aelv": {
+      "id": "jijyxirooej95u09sy0aelv",
+      "title": "Rules",
+      "desc": "",
+      "updated": 1656805999604,
+      "created": 1656376000334,
+      "custom": {},
+      "fname": "rules",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8ffb532c5b92422160ec5f54c5fcf21b",
+      "links": [],
+      "anchors": {
+        "general-rules": {
+          "type": "header",
+          "text": "General Rules",
+          "value": "general-rules",
+          "line": 11,
+          "column": 0,
+          "depth": 1
+        },
+        "conduct": {
+          "type": "header",
+          "text": "Conduct",
+          "value": "conduct",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "abuse": {
+          "type": "header",
+          "text": "Abuse",
+          "value": "abuse",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "originality": {
+          "type": "header",
+          "text": "Originality",
+          "value": "originality",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "ic-vs-ooc": {
+          "type": "header",
+          "text": "IC vs. OOC",
+          "value": "ic-vs-ooc",
+          "line": 38,
+          "column": 0,
+          "depth": 1
+        },
+        "roleplaying": {
+          "type": "header",
+          "text": "Roleplaying",
+          "value": "roleplaying",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        },
+        "conflict": {
+          "type": "header",
+          "text": "Conflict",
+          "value": "conflict",
+          "line": 54,
+          "column": 0,
+          "depth": 2
+        },
+        "misuse-of-me": {
+          "type": "header",
+          "text": "Misuse of \"/me\"",
+          "value": "misuse-of-me",
+          "line": 63,
+          "column": 0,
+          "depth": 2
+        },
+        "metagaming": {
+          "type": "header",
+          "text": "Metagaming",
+          "value": "metagaming",
+          "line": 74,
+          "column": 0,
+          "depth": 2
+        },
+        "recordings": {
+          "type": "header",
+          "text": "Recordings",
+          "value": "recordings",
+          "line": 87,
+          "column": 0,
+          "depth": 2
+        },
+        "death": {
+          "type": "header",
+          "text": "Death",
+          "value": "death",
+          "line": 102,
+          "column": 0,
+          "depth": 2
+        },
+        "the-win-mentality": {
+          "type": "header",
+          "text": "The \"Win\" Mentality",
+          "value": "the-win-mentality",
+          "line": 109,
+          "column": 0,
+          "depth": 1
+        },
+        "interactions-with-police": {
+          "type": "header",
+          "text": "Interactions with Police",
+          "value": "interactions-with-police",
+          "line": 112,
+          "column": 0,
+          "depth": 2
+        },
+        "fib-most-wanted": {
+          "type": "header",
+          "text": "FIB Most Wanted",
+          "value": "fib-most-wanted",
+          "line": 121,
+          "column": 0,
+          "depth": 2
+        },
+        "shared-immersion": {
+          "type": "header",
+          "text": "Shared Immersion",
+          "value": "shared-immersion",
+          "line": 126,
+          "column": 0,
+          "depth": 1
+        },
+        "opting-out": {
+          "type": "header",
+          "text": "Opting Out",
+          "value": "opting-out",
+          "line": 131,
+          "column": 0,
+          "depth": 2
+        },
+        "discipline": {
+          "type": "header",
+          "text": "Discipline",
+          "value": "discipline",
+          "line": 136,
+          "column": 0,
+          "depth": 1
+        },
+        "see-also": {
+          "type": "header",
+          "text": "See Also",
+          "value": "see-also",
+          "line": 148,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Time Served",
+      "desc": "",
+      "updated": 1656806621788,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f751b69714f57f11193fcf5cb0e99025",
+      "links": [],
+      "anchors": {
+        "welcome-to-tsrp": {
+          "type": "header",
+          "text": "Welcome to TSRP",
+          "value": "welcome-to-tsrp",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "jijyxirooej95u09sy0aelv",
+        "lpc5yicm2ffwc8ez7o9wx2a"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "## Welcome to TSRP\n\nWe are an open source role playing game and community based on Grand Theft Auto V. We use the popular [FiveM](https://fivem.net/) modification as a starting point, and we layer our own code on top. Our mission is to build a truly immersive virtual world that is wholly governed by players, and which serves as the backdrop for creative storytelling.\n\nPlaying on TSRP requires a licensed copy of GTA5. We are an 18+ community. Please review our [game and community rules](http://docs.timeservedrp.com/notes/jijyxirooej95u09sy0aelv/) at your earliest convenience. Ignorance is not an excuse.\n\nWe are diverse, welcoming, and helpful. Whether you're a veteran with years of RP experience, or a fresh newbie who's never played FiveM before, TSRP can be your home."
+    }
+  ],
+  "noteIndex": {
+    "id": "wn8PE1RhG0znK1alrGFYv",
+    "title": "Time Served",
+    "desc": "",
+    "updated": 1656806621788,
+    "created": 1631901573363,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "f751b69714f57f11193fcf5cb0e99025",
+    "links": [],
+    "anchors": {
+      "welcome-to-tsrp": {
+        "type": "header",
+        "text": "Welcome to TSRP",
+        "value": "welcome-to-tsrp",
+        "line": 7,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "jijyxirooej95u09sy0aelv",
+      "lpc5yicm2ffwc8ez7o9wx2a"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "## Welcome to TSRP\n\nWe are an open source role playing game and community based on Grand Theft Auto V. We use the popular [FiveM](https://fivem.net/) modification as a starting point, and we layer our own code on top. Our mission is to build a truly immersive virtual world that is wholly governed by players, and which serves as the backdrop for creative storytelling.\n\nPlaying on TSRP requires a licensed copy of GTA5. We are an 18+ community. Please review our [game and community rules](http://docs.timeservedrp.com/notes/jijyxirooej95u09sy0aelv/) at your earliest convenience. Ignorance is not an excuse.\n\nWe are diverse, welcoming, and helpful. Whether you're a veteran with years of RP experience, or a fresh newbie who's never played FiveM before, TSRP can be your home."
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
